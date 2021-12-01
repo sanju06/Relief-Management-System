@@ -1,2 +1,3 @@
-# Relief-Management-System
-Final Year Project for MIT @USCS
+Install NPM or Yarn
+
+npm install or yarn install
